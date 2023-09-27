@@ -2,7 +2,7 @@
 An osu! skin themed around OCaml, monad and nerds
 
 
-# !!! CAUTION !!!
+## !!! CAUTION !!!
 BEFORE USING THIS SKIN CONSIDER READING [Category Theory for Programmers](https://unglueit-files.s3.amazonaws.com/ebf/e90890f0a6ea420c9825657d6f3a851d.pdf) by Bartosz Milewski ([maliszewski](https://osu.ppy.sh/users/12408961/osu))
 
 
