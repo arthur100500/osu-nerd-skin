@@ -16,5 +16,6 @@ All code you see is taken from [OCaml rpository](https://github.com/ocaml/ocaml)
 ![screenshot216](https://github.com/arthur100500/osu-nerd-skin/assets/57834711/c2880768-b709-4337-943f-2fc4a607436d)
 ---
 
+## Download
 Download skin: [Google Drive](https://drive.google.com/file/d/14M24aJNBIh3pq4-lQ8XCsVCNXG3XBCO4/view?usp=sharing) <br>
 Please star the repo if you liked the skin 🥺
